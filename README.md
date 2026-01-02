@@ -16,4 +16,4 @@ Copy to Clipboard with confirmation.
 
 Dark/Light Mode toggle for comfortable viewing.
 
-Fully responsive and clean user interface.
+Fully responsive and clean user interface. 
