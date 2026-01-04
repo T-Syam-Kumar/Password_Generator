@@ -13,7 +13,7 @@ Include/exclude lowercase letters, uppercase letters, numbers, and symbols.
 Password Strength Meter shows Weak → Very Strong.
 
 Copy to Clipboard with confirmation.
-
+ 
 Dark/Light Mode toggle for comfortable viewing.
 
 Fully responsive and clean user interface. 
