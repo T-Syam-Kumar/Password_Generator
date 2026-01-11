@@ -10,7 +10,7 @@ Generate passwords of custom length (4–30 characters).
 
 Include/exclude lowercase letters, uppercase letters, numbers, and symbols.
 
-Password Strength Meter shows Weak → Very Strong.
+Password Strength Meter shows Weak → Very Strong.                  
 
 Copy to Clipboard with confirmation.
  
