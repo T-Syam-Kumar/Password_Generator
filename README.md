@@ -5,7 +5,7 @@ A modern, customizable Password Generator built with HTML, CSS, and JavaScript. 
 🔗 Live Demo: https://t-syam-kumar.github.io/Password_Generator/
 
 Features 
-
+ 
 Generate passwords of custom length (4–30 characters). 
 
 Include/exclude lowercase letters, uppercase letters, numbers, and symbols.
