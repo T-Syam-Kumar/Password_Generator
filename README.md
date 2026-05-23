@@ -6,14 +6,14 @@ A modern, customizable Password Generator built with HTML, CSS, and JavaScript. 
 
 Features 
  
-Generate passwords of custom length (4–30 characters). 
+- Generate passwords of custom length (4–30 characters). 
 
-Include/exclude lowercase letters, uppercase letters, numbers, and symbols.
+- Include/exclude lowercase letters, uppercase letters, numbers, and symbols.
 
-Password Strength Meter shows Weak → Very Strong.                   
+- Password Strength Meter shows Weak → Very Strong.                   
 
-Copy to Clipboard with confirmation.
+- Copy to Clipboard with confirmation.
  
-Dark/Light Mode toggle for comfortable viewing.
+- Dark/Light Mode toggle for comfortable viewing.
 
-Fully responsive and clean user interface. 
+- Fully responsive and clean user interface. 
