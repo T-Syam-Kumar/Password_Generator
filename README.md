@@ -2,7 +2,7 @@
 
 A modern, customizable Password Generator built with HTML, CSS, and JavaScript. Generate strong, secure passwords quickly with options for lowercase, uppercase, numbers, and symbols. Includes a password strength meter, copy-to-clipboard functionality, and dark mode.
 
-🔗 Live Demo: https://t-syam-kumar.github.io/Password_Generator/
+Live Demo: https://t-syam-kumar.github.io/Password_Generator/
 
 Features 
  
